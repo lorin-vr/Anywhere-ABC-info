@@ -1,5 +1,27 @@
 ---
-title: Privacy Policy
+title: Anywhere ABC
 ---
 
-The developer of this app takes your privacy seriously. The app does not collect personal information. Usage of the app does not require an internet connection and data created with the app does not leave the device. The app does not use any third party analytics tools. The app has no advertising.
+Anywhere ABC is a flashcard app for learning alphabet letters, beginner words and sight words.
+
+The app is relaxed, non-competitive and designed to be used in short bursts. Practise with your young reader anywhere, anytime, as often as you need.
+
+The font used by the app is the Schools Foundation Font, which is the first font Australian children are introduced to in Kindergarten.
+
+FEATURES
+
+🔒 Safety First: No ads and no subscriptions. The app does not ask for any personal information and, once installed, does not require an Internet connection.
+
+🔤 Letters: Learn to recognise lowercase and uppercase alphabet letters. Introduce new letters at your own pace.
+
+📚 Beginner Words: Transition seamlessly from letters to simple words. Visual cues encourage sounding out and blending from left to right.
+
+👁️ Sight Words: Familiarity with high-frequency words promotes early reading comprehension.
+ 
+🏠 Home Screen Widgets: Learn at a glance with widgets on your Home Screen, Lock Screen and in StandBy mode.
+
+⌚ Apple Watch: Extend your flashcards to your wrist with our Apple Watch companion app and Smart Stack widgets.
+
+📱 Configurable: Delightful in light or dark mode, portrait or landscape.
+
+🌻 Accessibility: Supports dynamic text.
