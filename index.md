@@ -2,7 +2,9 @@
 title: Anywhere ABC
 ---
 
-Anywhere ABC is a flashcard app for learning alphabet letters, beginner words and sight words.
+<img src=assets/ipad-widgets.png width="600">
+
+Anywhere ABC is a flashcard app for learning alphabet letters, beginner words and sight words on iPhone, iPad and Apple Watch.
 
 The app is relaxed, non-competitive and designed to be used in short bursts. Practise with your young reader anywhere, anytime, as often as you need.
 
