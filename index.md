@@ -2,7 +2,7 @@
 title: Anywhere ABC
 ---
 
-<img src=assets/ipad-widgets.png width="600">
+![iPad home screen showing widgets](/assets/ipad-widgets.png)
 
 Anywhere ABC is a flashcard app for learning alphabet letters, beginner words and sight words on iPhone, iPad and Apple Watch.
 
