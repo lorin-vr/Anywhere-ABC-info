@@ -2,7 +2,7 @@
 
 # Anywhere ABC
 
-_Github Pages project for a website for the Anywhere ABC iOS app_
+_Github Pages project for a website for the Anywhere ABC and Sprinkle Words apps_
 
 </header>
 
