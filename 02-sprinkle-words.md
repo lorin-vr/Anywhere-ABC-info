@@ -32,4 +32,4 @@ FEATURES
 
 Unleash your inner word detective and start uncovering hidden words today with Sprinkle Words!
 
-Find it on the app store.
+[![Download on the App Store badge](/assets/app-store-badge.svg)](https://apps.apple.com/au/app/sprinkle-words/id6478638398)
